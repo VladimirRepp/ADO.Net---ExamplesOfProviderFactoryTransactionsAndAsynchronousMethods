@@ -5,6 +5,7 @@ Using:
 - ADO.Net 
 - Win Forms
 - C#
+- .Net Framework 
 
 Asynchronous methods using ADO.Net fot DB:
 - Begin, end
