@@ -5,7 +5,8 @@ Using:
 - ADO.Net 
 - Win Forms
 - C#
-- .Net Framework 
+- .Net Framework
+- IDE: MVS 2022
 
 Asynchronous methods using ADO.Net fot DB:
 - Begin, end
